@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "253281871907",
+    "project_id": "fincierge-e6d38",
+    "storage_bucket": "fincierge-e6d38.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253281871907:android:f22550326a29538359e996",
+        "android_client_info": {
+          "package_name": "com.example.fincierge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253281871907-v6kes29mnepkf4k62uggc9n5j2gf7bfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvRdK9SowHuxt0tG6Mm3WvxynueZ22w5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253281871907-v6kes29mnepkf4k62uggc9n5j2gf7bfp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "253281871907-0tsl25pu8pacmau5pvm0093o2t1gn6jr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fincierge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

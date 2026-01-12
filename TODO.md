@@ -1,0 +1,5 @@
+- [ ] Change ChatScreen to StatefulWidget
+- [ ] Add TextEditingController for message input
+- [ ] Add List<String> to store user messages
+- [ ] Update ListView to display messages
+- [ ] Implement send functionality: add message to list, clear text field, update UI
