@@ -6,6 +6,8 @@ A design-driven AI-powered mobile application that combines a clean Flutter UI w
 Download the latest release of the Fincierge Android app:
 
 👉 **[Download Fincierge v1.0.0 APK](https://github.com/krpto-affan/fincierge-frontend/releases/tag/v1.0.0)**
+> ⚠️ This is a demo APK. You may need to enable **Install from Unknown Sources** in your device settings to install it.
+
 
 ## Overview
 
