@@ -1,6 +1,12 @@
 # Fincierge
 A design-driven AI-powered mobile application that combines a clean Flutter UI with a Retrieval-Augmented Generation (RAG) backend for contextual intelligent assistance.
 
+## 📱 Demo APK
+
+Download the latest release of the Fincierge Android app:
+
+👉 **[Download Fincierge v1.0.0 APK](https://github.com/krpto-affan/fincierge-frontend/releases/tag/v1.0.0)**
+
 ## Overview
 
 Fincierge is a personal finance and AI assistance mobile application built with a focus on thoughtful UI/UX design and scalable system architecture. The app enables users to interact with an AI assistant, manage their profiles, and view conversation history through a secure and responsive interface.
